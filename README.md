@@ -16,5 +16,6 @@ If you would like to contribute to this repository then please either start a pu
 
 ### Templates added so far suitable for:
 
-WHSmith A4 (21 per page) 63.5mm x 38.1mm (GAB WHS 4483) - [.indd](https://github.com/jimhill/label-lounge/blob/master/INDD/GAB-WHS-4483-CC2014.indd)
-WHSmith A4 (14 per page) 99.1mm x 38.1mm (GAB WHS 3455) - [.indd](https://github.com/jimhill/label-lounge/blob/master/INDD/GAB-WHS-3455-CC2014.indd)
+* WHSmith A4 (21 per page) 63.5mm x 38.1mm (GAB WHS 4483) - [.indd](https://github.com/jimhill/label-lounge/blob/master/INDD/GAB-WHS-4483-CC2014.indd)
+
+* WHSmith A4 (14 per page) 99.1mm x 38.1mm (GAB WHS 3455) - [.indd](https://github.com/jimhill/label-lounge/blob/master/INDD/GAB-WHS-3455-CC2014.indd)
